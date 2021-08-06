@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Folder>
+      <name>Китайские гидропосты</name>
+      <open>1</open>
+      <Style>
+        <ListStyle>
+          <listItemType>check</listItemType>
+          <bgColor>00ffffff</bgColor>
+        </ListStyle>
+      </Style>
+      <Placemark>
+        <name>Далай</name>
+        <description>Название станции : 大赉,
+Река (кит): 大赉,
+Река (рус): Нэньцзян,
+ОЯ: 131.74,</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/ylw-diamond.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>124.282118416667,45.5380406944444,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Эрдаобайхе</name>
+        <description>Название станции : 二道白河,
+Река (кит): 二道白河,
+Река (рус): Эрдаобайхе,
+ОЯ: 700.1,</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/ylw-diamond.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>128.115300694444,42.4422711666667,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ханьянтунь</name>
+        <description>Название станции : 汉阳屯,
+Река (кит): 二道松花江,
+Река (рус): Эрадо-Сунгари,
+ОЯ: 449.5,</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/ylw-diamond.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>127.960171,42.6515421944444,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Сунцзянчжэнь</name>
+        <description>Название станции : 松江,
+Река (кит): 五道白河,
+Река (рус): Вудаобай,
+ОЯ: 549.6,</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/ylw-diamond.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>128.327481611111,42.5811156111111,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Бейдайнзицун</name>
+        <description>Название станции : 大甸子,
+Река (кит): 古洞河,
+Река (рус): Гудун,
+ОЯ: 544.2,</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/ylw-diamond.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>128.118657555556,42.6863554444444,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Дапучайхэ</name>
+        <description>Название станции : 大蒲柴河,
+Река (кит): 富尔河,
+Река (рус): Фуэр,
+ОЯ: 528.00,</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/ylw-diamond.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>128.026460472222,42.872888,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Цзинюй</name>
+        <description>Название станции : 靖宇,
+Река (кит): 珠子河,
+Река (рус): Чжуцы,
+ОЯ: -,</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/ylw-diamond.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>126.805882611111,42.3881361111111,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Гаоличэнцзы</name>
+        <description>Название станции : 高丽城子,
+Река (кит): 头道松花江,
+Река (рус): Тодау Сунгари,
+ОЯ: 422.07,</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/ylw-diamond.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>127.219836666667,42.3527341944444,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Вудаогоу</name>
+        <description>Название станции : 五道沟,
+Река (кит): 辉发河,
+Река (рус): Хуэйфа,
+ОЯ: 270,</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/ylw-diamond.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>126.6294565,42.8895682777778,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Дунфэн</name>
+        <description>Название станции : 东丰,
+Река (кит): 莲河,
+Река (рус): Лианхэ,
+ОЯ: 338,</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/ylw-diamond.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>125.525618777778,42.6624051111111,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Яньшао</name>
+        <description>Название станции : 样子哨,
+Река (кит): 三统河,
+Река (рус): Сантонг,
+ОЯ: 323.94,</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/ylw-diamond.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>126.160011972222,42.4431160555555,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Минли</name>
+        <description>Название станции : 民立,
+Река (кит): 金沙河,
+Река (рус): Цзиньша,
+ОЯ: 271.97,</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/ylw-diamond.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>126.766608333333,43.1372019166667,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Хэдаоси</name>
+        <description>Название станции : 横道子,
+Река (кит): 漂河,
+Река (рус): Дяохэ,
+ОЯ: 279.41,</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/ylw-diamond.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>127.315951416667,43.2995271388889,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Цзяохэ</name>
+        <description>Название станции : 蛟河,
+Река (кит): 蛟河,
+Река (рус): Цзяохэ,
+ОЯ: 268,6,</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/ylw-diamond.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>127.308081611111,43.7068220833333,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Фуюй</name>
+        <description>Название станции : 扶余,
+Река (кит): 松花江,
+Река (рус): Сунгари,
+ОЯ: 133.56,</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/ylw-diamond.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>124.811491666667,45.1666840555556,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Гирин</name>
+        <description>Название станции : 吉林,
+Река (кит): 第二松花江,
+Река (рус): Сунгари,
+ОЯ: 189,39,</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/ylw-diamond.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>126.549885805556,43.8354008055556,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Сунгари</name>
+        <description>Название станции : 松花江,
+Река (кит): 第二松花江,
+Река (рус): Сунгари,
+ОЯ: 154.46,</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/ylw-diamond.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>125.915382888889,44.7663493333333,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Коуцянь</name>
+        <description>Название станции : 口前,
+Река (кит): 温德河,
+Река (рус): Венде,
+ОЯ: 223,</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/ylw-diamond.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>126.489088527778,43.66477475,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Чанлин</name>
+        <description>Название станции : 长岭,
+Река (кит): 饮马河,
+Река (рус): Иньмахе,
+ОЯ: 197,</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/ylw-diamond.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>125.849978527778,43.5334077777778,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Дэхуэй</name>
+        <description>Название станции : 德惠,
+Река (кит): 饮马河,
+Река (рус): Иньмахэ,
+ОЯ: 155.5,</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/ylw-diamond.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>125.748864194444,44.5208596944444,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Нунъань</name>
+        <description>Название станции : 农安,
+Река (кит): 伊通河,
+Река (рус): Итунхэ,
+ОЯ: 167.53,</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/ylw-diamond.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>125.196935361111,44.4167323055556,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Цайцзягоу</name>
+        <description>Название станции : 蔡家沟,
+Река (кит): 拉林河,
+Река (рус): Лалин,
+ОЯ: 139.9,</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/ylw-diamond.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>126.144165805556,45.1405197777778,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Гора Ниутоу</name>
+        <description>Название станции : 牛头山,
+Река (кит): 拉林河,
+Река (рус): Лалин,
+ОЯ: 158.87,</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/ylw-diamond.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>126.760439277778,45.1695285555556,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Юйшу</name>
+        <description>Название станции : 榆树,
+Река (кит): 卡岔河,
+Река (рус): Качаон,
+ОЯ: 167.42,</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/ylw-diamond.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>126.527480555556,44.8511731388889,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Чарлсен</name>
+        <description>Название станции : 察尔森,
+Река (кит): 洮儿河,
+Река (рус): Таоэр,
+ОЯ: 330.8,</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/ylw-diamond.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>121.896631138889,46.3191715555556,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Таонань</name>
+        <description>Название станции : 洮南,
+Река (кит): 洮儿河,
+Река (рус): Таоэр,
+ОЯ: 148.89,</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/ylw-diamond.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>122.811355,45.3662870833333,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Дашичжай</name>
+        <description>Название станции : 大石寨,
+Река (кит): 归流河,
+Река (рус): Гилюхэ,
+ОЯ: 4.2,</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/ylw-diamond.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>121.374124166667,46.2749526388889,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Дурки</name>
+        <description>Название станции : 杜尔基,
+Река (кит): 蛟流河,
+Река (рус): Цзяо Лю,
+ОЯ: 15,</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/ylw-diamond.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>121.657564361111,45.6049249166667,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Байинь Хушо</name>
+        <description>Название станции : 白云胡硕,
+Река (кит): 霍林河,
+Река (рус): Хорен-Гол,
+ОЯ: 251.9,</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/ylw-diamond.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>121.453175722222,45.0523041944444,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Сядайдзи</name>
+        <description>Название станции : 下岱吉,
+Река (кит): 松花江干流,
+Река (рус): Сунгари,
+ОЯ: 126.32,</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>0.5</scale>
+            <Icon>
+              <href>files/ylw-diamond.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>125.391596666667,45.4083305,0 </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
