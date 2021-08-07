@@ -55,8 +55,7 @@ def get_dataset(level_date, levels):
     return dataset
 
 
-level_date, levels = get_data_from_url(CHINA_URL)
-querry_data = get_dataset(level_date, levels)
+
 
 
 
@@ -124,7 +123,7 @@ def insert_in_DB(db_name, insertQuerry, data):
         cur = con.cursor()
         cur.executemany(insertQuerry, data)
 
-insert_in_DB(DB_NAME, INSERT_DATA, querry_data)
+#insert_in_DB(DB_NAME, INSERT_DATA, querry_data)
 
 
 # with sq.connect(DB_NAME) as con:
@@ -133,7 +132,10 @@ insert_in_DB(DB_NAME, INSERT_DATA, querry_data)
 #     cur.execute(DELETE_QUERRY)
 
 
+level_date, levels = get_data_from_url(CHINA_URL)
+querry_data = get_dataset(level_date, levels)
+
 with sq.connect(DB_NAME) as con:
-    Q = 'SELECT * FROM levels WHERE date ="06.08.2021"'
+    Q = 'SELECT * FROM levels WHERE date ="07.08.2021"'
     for post in con.cursor().execute(Q):
         print(post)
