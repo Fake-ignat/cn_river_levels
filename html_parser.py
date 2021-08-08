@@ -55,10 +55,6 @@ def get_dataset(level_date, levels):
     return dataset
 
 
-
-
-
-
 class PageParser():
     table_id = 'hdtable'
     date_id = 'hddate'
@@ -123,7 +119,7 @@ def insert_in_DB(db_name, insertQuerry, data):
         cur = con.cursor()
         cur.executemany(insertQuerry, data)
 
-#insert_in_DB(DB_NAME, INSERT_DATA, querry_data)
+
 
 
 # with sq.connect(DB_NAME) as con:
@@ -134,8 +130,9 @@ def insert_in_DB(db_name, insertQuerry, data):
 
 level_date, levels = get_data_from_url(CHINA_URL)
 querry_data = get_dataset(level_date, levels)
+insert_in_DB(DB_NAME, INSERT_DATA, querry_data)
 
 with sq.connect(DB_NAME) as con:
-    Q = 'SELECT * FROM levels WHERE date ="07.08.2021"'
+    Q = 'SELECT * FROM levels WHERE date ="08.08.2021"'
     for post in con.cursor().execute(Q):
         print(post)
