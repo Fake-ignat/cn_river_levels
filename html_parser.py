@@ -133,6 +133,6 @@ querry_data = get_dataset(level_date, levels)
 insert_in_DB(DB_NAME, INSERT_DATA, querry_data)
 
 with sq.connect(DB_NAME) as con:
-    Q = 'SELECT * FROM levels WHERE date ="08.08.2021"'
+    Q = 'SELECT * FROM levels WHERE date ="09.08.2021"'
     for post in con.cursor().execute(Q):
         print(post)
