@@ -1,4 +1,4 @@
-import datetime
+from datetime import datetime as dt
 from paths_manager import PathsManager
 import dateutil.parser
 import requests
@@ -132,7 +132,9 @@ level_date, levels = get_data_from_url(CHINA_URL)
 querry_data = get_dataset(level_date, levels)
 insert_in_DB(DB_NAME, INSERT_DATA, querry_data)
 
+current_date = dt.now().strftime('%d.%m.%Y')
+
 with sq.connect(DB_NAME) as con:
-    Q = 'SELECT * FROM levels WHERE date ="09.08.2021"'
+    Q = f'SELECT * FROM levels WHERE date ="{current_date}"'
     for post in con.cursor().execute(Q):
         print(post)
