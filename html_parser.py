@@ -1,6 +1,6 @@
 from datetime import datetime as dt
 from paths_manager import PathsManager
-import dateutil.parser
+# import dateutil.parser
 import requests
 from Kml_reader import KMLReader
 from bs4 import BeautifulSoup
