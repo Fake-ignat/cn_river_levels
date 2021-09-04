@@ -134,7 +134,8 @@ insert_in_DB(DB_NAME, INSERT_DATA, querry_data)
 
 current_date = dt.now().strftime('%d.%m.%Y')
 
-with sq.connect(DB_NAME) as con:
-    Q = f'SELECT * FROM levels WHERE date ="{current_date}"'
-    for post in con.cursor().execute(Q):
-        print(post)
+
+# with sq.connect(DB_NAME) as con:
+#     Q = f'SELECT * FROM levels WHERE date ="{current_date}"'
+#     for post in con.cursor().execute(Q):
+#         print(post)
